@@ -1,7 +1,7 @@
 title: MRCS-Nano-Ard-Relay-Breakout
 designer: Seth Neumann
-fabricated: no
-fab_date: YYYY-MM
+fabricated: yes
+fab_date: 2022-03
 status: Pick one of   experimental
-publish: Pick one of  no
+publish: Pick one of  yes
 tags: [MRCS, SPCoast, eagle]
